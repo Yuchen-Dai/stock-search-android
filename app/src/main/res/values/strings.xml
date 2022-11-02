@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stocks</string>
+    <string name="_today">05 May 2022</string>
+    <string name="_source">Powered by Finnhub</string>
+    <string name="_portfolio">PORTFOLIO</string>
+    <string name="_favorite">FAVORITE</string>
+    <string name="_networth">Net Worth</string>
+    <string name="_cashbalance">Cash Balance</string>
+    <string name="_default_balance">$25000.00</string>
+    <string name="shares_owned">Shares Owned:</string>
+    <string name="avg_cost_share">Avg. Cost / Share:</string>
+    <string name="total_cost">Total Cost:</string>
+    <string name="change">Change:</string>
+    <string name="market_value">Market Value:</string>
+</resources>
