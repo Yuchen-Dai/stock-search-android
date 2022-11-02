@@ -24,7 +24,7 @@
   <p align="center">
     Stock search app with simulate stock trading for Android
     <br />
-    <a href="https://github.com/Yuchen-Dai/stock-search-android"><strong>View Demo »</strong></a>
+    <a href="https://www.youtube.com/watch?v=NKccaFlFjag"><strong>View Demo »</strong></a>
     <br />
 
   </p>
