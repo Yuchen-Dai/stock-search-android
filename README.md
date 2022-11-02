@@ -30,12 +30,39 @@
   </p>
 </div>
 
-
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://user-images.githubusercontent.com/39274261/199491386-81cf421a-18e0-47f1-92ed-60a1715bffaf.png)
+<div style="display: flex;">
+  <img src="https://user-images.githubusercontent.com/39274261/199491386-81cf421a-18e0-47f1-92ed-60a1715bffaf.png" width="24%">
+  <img src="https://user-images.githubusercontent.com/39274261/199501578-bfcc9715-c664-48e9-b6db-cd6a6d85acec.png" width="24%">
+  <img src="https://user-images.githubusercontent.com/39274261/199509360-99955086-5f89-4877-b91d-359edb154759.png" width="24%">
+  <img src="https://user-images.githubusercontent.com/39274261/199507684-6c129e1c-5457-496b-b8ee-738f2715996d.png" width="24%">
+</div>
+<br />
 
 The app allows users to search for different stock symbols/tickers and look at the detailed information about them.Additionally, the users can trade with virtual money and create a portfolio. Users can also favorite stock symbols to track their stock prices.<br />
 The App contains 2 screens: Home screen and the Detailed Stock Information screen. However, the App has multiple features on each of these screens:
@@ -50,7 +77,7 @@ The App contains 2 screens: Home screen and the Detailed Stock Information scree
 
 ### Built With
 
-* [![Angular][Android.com]][Android-url]
+* [![Android][Android.com]][Android-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,7 +158,7 @@ Project Link - [https://github.com/Yuchen-Dai/stock-search-android](https://gith
 [license-url]: https://github.com/Yuchen-Dai/stock-search-android/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://user-images.githubusercontent.com/39274261/199491386-81cf421a-18e0-47f1-92ed-60a1715bffaf.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
